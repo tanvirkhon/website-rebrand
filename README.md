@@ -8,9 +8,13 @@ The Acceptance Criteria for this Challenge were broken up into the following par
 
 GIVEN a webpage meets accessibility standards-
 
-1) WHEN I view the source code. THEN I find semantic HTML elements
+1) WHEN I view the source code.
 
 ![image](https://user-images.githubusercontent.com/119143763/206562720-5542b3b9-dfb9-403d-b696-f826a4a81b13.png)
+
+THEN I find semantic HTML elements
+
+![image](https://user-images.githubusercontent.com/119143763/206563315-0bc39ab4-dfec-4c81-9c1c-8a550db3895f.png)
 
 2) WHEN I view the structure of the HTML elements. THEN I find that the elements follow a logical structure independent of styling and positioning
 
