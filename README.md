@@ -54,7 +54,7 @@ N/A
 
 ## Usage
 
-The project is a dummy website made for the University of Minnesota Bootcamp. The files for this challenge are included and a free to edit. The images and CSS files for this project are included in the assets folder. 
+The project is a dummy website made for the University of Minnesota Bootcamp. The files for this challenge are included and are free to edit. The images and CSS files for this project are included in the assets folder. 
 
 ## Credits
 
