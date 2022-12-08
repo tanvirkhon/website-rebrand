@@ -48,7 +48,9 @@ THEN I find a concise, descriptive title
 
 ![image](https://user-images.githubusercontent.com/119143763/206564638-a86a5f7d-acd3-4c54-a485-7b8cb137747e.png)
 
-This is the final product after the changes were made to the HTML and CSS files: Link to project site: https://tanvirkhon.github.io/week_one_challenge
+This is the final product after the changes were made to the HTML and CSS files:
+
+https://tanvirkhon.github.io/week_one_challenge
 
 ## Installation
 
