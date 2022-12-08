@@ -34,11 +34,11 @@ THEN I find accessible alt attributes
 
 4) WHEN I view the heading attributes
 
-![image](https://user-images.githubusercontent.com/119143763/206564189-bfb62a85-2ca5-47cb-85c6-4d3c4406c5d1.png)
+![image](https://user-images.githubusercontent.com/119143763/206588822-d1aee6d3-f861-4b61-a4d9-0a087e166d5d.png)
 
 THEN they fall in sequential order
 
-![image](https://user-images.githubusercontent.com/119143763/206564378-66c53f24-15b7-4f6d-a84d-2d2504cf7e4b.png)
+![image](https://user-images.githubusercontent.com/119143763/206588919-70e226ff-9a60-477d-93c2-4966de74839d.png)
 
 5) WHEN I view the title element
 
