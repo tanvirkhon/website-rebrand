@@ -2,7 +2,7 @@
 
 ## Description
 
-This coding challenge required us to refactor the existing code for the Horiseon web0site in order to make it more accessible for its clients and so that it optomized for search engines.
+This coding challenge required us to refactor the existing code for the Horiseon website in order to make it more accessible for its clients and so that it optomized for search engines.
 
 The Acceptance Criteria for this Challenge were broken up into the following parts:
 
@@ -16,7 +16,13 @@ THEN I find semantic HTML elements
 
 ![image](https://user-images.githubusercontent.com/119143763/206563315-0bc39ab4-dfec-4c81-9c1c-8a550db3895f.png)
 
-2) WHEN I view the structure of the HTML elements. THEN I find that the elements follow a logical structure independent of styling and positioning
+2) WHEN I view the structure of the HTML elements. 
+
+![image](https://user-images.githubusercontent.com/119143763/206565526-232da933-e9c8-44af-92d0-fb1510a74aa3.png)
+
+THEN I find that the elements follow a logical structure independent of styling and positioning
+
+![image](https://user-images.githubusercontent.com/119143763/206565641-5f5158eb-a7e8-480d-80cf-faeccd1b1068.png)
 
 3) WHEN I view the icon and image elements
 
@@ -48,7 +54,7 @@ N/A
 
 ## Usage
 
-To use thsi Study Guide, you can review the notes in each section. For suggestions on what to study first, open Chrome DevTools by pressing Command+Options+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics from Prework along with a suggestion on which topic to study first.
+The project is a dummy website made for the University of Minnesota Bootcamp. The files for this challenge are included and a free to edit. The images and CSS files for this project are included in the assets folder. 
 
 ## Credits
 
