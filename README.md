@@ -8,7 +8,7 @@ The Acceptance Criteria for this Challenge were broken up into the following par
 
 GIVEN a webpage meets accessibility standards-
 
-1) WHEN I view the source code.
+1) WHEN I view the source code
 
 ![image](https://user-images.githubusercontent.com/119143763/206562720-5542b3b9-dfb9-403d-b696-f826a4a81b13.png)
 
@@ -18,22 +18,28 @@ THEN I find semantic HTML elements
 
 2) WHEN I view the structure of the HTML elements. THEN I find that the elements follow a logical structure independent of styling and positioning
 
-3) WHEN I view the icon and image elements.
+3) WHEN I view the icon and image elements
+
 ![image](https://user-images.githubusercontent.com/119143763/206563793-743ac1c2-7bfd-4f03-b278-c82dcbc88509.png)
 
 THEN I find accessible alt attributes
+
 ![image](https://user-images.githubusercontent.com/119143763/206563899-09865621-f06e-4388-a9f2-bfdb3af7f484.png)
 
-4) WHEN I view the heading attributes. 
+4) WHEN I view the heading attributes
+
 ![image](https://user-images.githubusercontent.com/119143763/206564189-bfb62a85-2ca5-47cb-85c6-4d3c4406c5d1.png)
 
 THEN they fall in sequential order
+
 ![image](https://user-images.githubusercontent.com/119143763/206564378-66c53f24-15b7-4f6d-a84d-2d2504cf7e4b.png)
 
-5) WHEN I view the title element. 
+5) WHEN I view the title element
+
 ![image](https://user-images.githubusercontent.com/119143763/206564519-7632b286-c097-45a7-91bf-9be5d7719df0.png)
 
 THEN I find a concise, descriptive title
+
 ![image](https://user-images.githubusercontent.com/119143763/206564638-a86a5f7d-acd3-4c54-a485-7b8cb137747e.png)
 
 ## Installation
